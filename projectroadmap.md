@@ -10,12 +10,12 @@
 
 - [x] Research which program platform is best for the congratulations page 
 
-- [] Choose program platform 
+- [ ] Choose program platform 
 
-- [] Start the project/code 
+- [ ] Start the project/code 
 
-- [] Once finished see if code runs 
+- [ ] Once finished see if code runs 
 
-- [] If the code runs without error, GREAT! If not fix it 
+- [ ] If the code runs without error, GREAT! If not fix it 
 
-- [] Connect finished code to Hangman_Game 
+- [ ] Connect finished code to Hangman_Game 
